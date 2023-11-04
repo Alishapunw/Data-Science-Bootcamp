@@ -2,7 +2,7 @@ Q1. How do you assess the statistical significance of an insight?
 Statistical significance is assessed by calculating a p-value, which tells you the probability of observing your results by chance if the null hypothesis is true. A p-value below a set threshold (often 0.05) indicates statistical significance. 
 
 Q2. What is the Central Limit Theorem? Explain it. Why is it important?
-The Central Limit Theorem states that the distribution of sample means approximates a normal distribution as the sample size gets larger, regardless of the underlying population distribution. This allows you to use parametric tests and calculate confidence intervals.
+The Central Limit Theorem states that the distribution of sample means approximates a normal distribution as the sample size gets larger, regardless of the underlying population distribution. This allows us to use parametric tests and calculate confidence intervals.
 
 Q3. What is the statistical power?
 Statistical power is the probability of correctly rejecting the null hypothesis when the alternative hypothesis is true. High power is desirable to avoid false negatives. Power depends on effect size, sample size, and significance level.
