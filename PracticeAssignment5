@@ -1,0 +1,20 @@
+Q1. How do you assess the statistical significance of an insight?
+Statistical significance is assessed by calculating a p-value, which tells you the probability of observing your results by chance if the null hypothesis is true. A p-value below a set threshold (often 0.05) indicates statistical significance. 
+
+Q2. What is the Central Limit Theorem? Explain it. Why is it important?
+The Central Limit Theorem states that the distribution of sample means approximates a normal distribution as the sample size gets larger, regardless of the underlying population distribution. This allows us to use parametric tests and calculate confidence intervals.
+
+Q3. What is the statistical power?
+Statistical power is the probability of correctly rejecting the null hypothesis when the alternative hypothesis is true. High power is desirable to avoid false negatives. Power depends on effect size, sample size, and significance level.
+
+Q4. How do you control for biases?
+Biases can be controlled through random sampling, blinding, controlling confounds, pre-registration, and other valid study design elements.
+
+Q5.  What are confounding variables?
+Confounding variables influence both the independent and dependent variables, providing an alternative explanation for observed effects. They should be controlled for in design or analysis.
+
+Q6. What is A/B testing?
+A/B testing compares two versions of something by randomly assigning subjects to each group and measuring differences in the outcome. It helps determine causal relationships.
+
+Q7. What are confidence intervals?
+Confidence intervals give a range of plausible values for a population parameter based on a sample statistic. Wider intervals indicate less precision; narrower intervals indicate higher confidence.
